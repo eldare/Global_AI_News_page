@@ -1,0 +1,7 @@
+/* Highlight selected nav-item as bold white */
+.navbar-nav .nav-item.active > .nav-link,
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.selected {
+  color: #fff !important;
+  font-weight: bold !important;
+}
