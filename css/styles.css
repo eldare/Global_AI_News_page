@@ -11388,7 +11388,7 @@ section.cta:before {
   height: 1rem;
   width: 1rem;
   transform: rotate(10deg);
-  fill: #2937f0;
+  fill: #B78AE4;
   top: 15%;
   right: 10%;
 }
@@ -11396,7 +11396,7 @@ section.cta:before {
   position: absolute;
   height: 0.75rem;
   width: 0.75rem;
-  fill: #2937f0;
+  fill: #B78AE4;
   bottom: 15%;
   left: 10%;
 }
@@ -11503,7 +11503,7 @@ footer a:focus {
   height: 1rem;
   width: 1rem;
   transform: rotate(-10deg);
-  fill: #2937f0;
+  fill: #B88AE4;
   bottom: 15%;
   left: 10%;
 }
@@ -11511,7 +11511,7 @@ footer a:focus {
   position: absolute;
   height: 0.75rem;
   width: 0.75rem;
-  fill: #2937f0;
+  fill: #B88AE4;
   top: 15%;
   right: 10%;
 }
